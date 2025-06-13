@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a050e7bfbcbd9c46b41fa985e031fed, type: 3}
+  m_Name: HorDistributionSO
+  m_EditorClassIdentifier: 
+  padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  spacing: 0
+  leftSize: 1
+  rightSize: 1
+  leftColor: {r: 0.9803922, g: 0.9607844, b: 0.6784314, a: 1}
+  rightColor: {r: 0.36354572, g: 0.67177725, b: 0.8679245, a: 1}

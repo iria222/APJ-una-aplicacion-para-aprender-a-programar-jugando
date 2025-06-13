@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3af44848ebff24340bceaf27a2fa6825, type: 3}
+  m_Name: CalculationModeTutorial
+  m_EditorClassIdentifier: 
+  lines:
+  - character:
+      name: Bit
+      icon: {fileID: -1319672761, guid: 74e972b012b5720439f666fc4d1bff91, type: 3}
+    line: "Hola, soy Bit.  Te explicar\xE9 como funciona este modo de juego."
+    gameEvent: {fileID: 0}
+    receiverName: 
+    spriteAsset: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: a472a1d4366758c4b8e553a68dc0f82e, type: 3}
+  - character:
+      name: Bit
+      icon: {fileID: -1319672761, guid: 74e972b012b5720439f666fc4d1bff91, type: 3}
+    line: "En primer lugar, tendr\xE1s que introducir un n\xFAmero entre el 1 y el
+      99."
+    gameEvent: {fileID: 0}
+    receiverName: 
+    spriteAsset: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 50cfe5775d8555b49a514252fc7b3e76, type: 3}
+  - character:
+      name: Bit
+      icon: {fileID: -1319672761, guid: 74e972b012b5720439f666fc4d1bff91, type: 3}
+    line: "Tu objetivo ser\xE1 construir un programa que me mueva por el escenario
+      seleccionando n\xFAmeros, los cuales se sumar\xE1n."
+    gameEvent: {fileID: 0}
+    receiverName: 
+    spriteAsset: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 28c878bf0042abd45a451b5baba42042, type: 3}
+  - character:
+      name: Bit
+      icon: {fileID: -1319672761, guid: 74e972b012b5720439f666fc4d1bff91, type: 3}
+    line: "Si cuando me termine de mover el resultado de la suma es igual al n\xFAmero
+      que escribiste al comienzo , ganar\xE1s."
+    gameEvent: {fileID: 0}
+    receiverName: 
+    spriteAsset: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 1a2c8a19ab35def46b1394f3a1d13d2b, type: 3}
+  - character:
+      name: Bit
+      icon: {fileID: -1118740437, guid: 74e972b012b5720439f666fc4d1bff91, type: 3}
+    line: "\xBFQue c\xF3mo creas el programa?  Es muy sencillo.  Te lo explicar\xE9."
+    gameEvent: {fileID: 0}
+    receiverName: 
+    spriteAsset: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 9f995b24da2cbb744858cec448bb5eaa, type: 3}
+  - character:
+      name: Bit
+      icon: {fileID: -1319672761, guid: 74e972b012b5720439f666fc4d1bff91, type: 3}
+    line: "\xBFVes el panel que est\xE1 arriba a la izquierda?  Ah\xED es donde est\xE1n
+      los bloques que tendr\xE1s que utilizar para crear el programa.  Est\xE1n organizados
+      en pesta\xF1as seg\xFAn su funci\xF3n por lo que no te resultar\xE1 dif\xEDcil
+      encontrar el que busques."
+    gameEvent: {fileID: 11400000, guid: 8137d043a0e36024fb9b1b2e24eb5c72, type: 2}
+    receiverName: ControlPanelMask
+    spriteAsset: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: c6511d9065f770f4882c09faebbbf5e2, type: 3}
+  - character:
+      name: Bit
+      icon: {fileID: -1319672761, guid: 74e972b012b5720439f666fc4d1bff91, type: 3}
+    line: "Para usar un bloque de programaci\xF3n solo tienes que arrastrarlo con
+      el rat\xF3n hasta el panel de creaci\xF3n de programas, abajo a la izquierda."
+    gameEvent: {fileID: 11400000, guid: 8137d043a0e36024fb9b1b2e24eb5c72, type: 2}
+    receiverName: EscritorioMask
+    spriteAsset: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: cb1a71d2c343a774fa549ab8a1543104, type: 3}
+  - character:
+      name: Bit
+      icon: {fileID: -1319672761, guid: 74e972b012b5720439f666fc4d1bff91, type: 3}
+    line: "Recuerda que para que los bloques formen un programa, deber\xE1s colocarlos
+      dentro del bloque \"Comenzar\"  <sprite=0> .  Lo reconocer\xE1s f\xE1cilmente. 
+      Es el \xFAnico bloque de color verde."
+    gameEvent: {fileID: 11400000, guid: 8137d043a0e36024fb9b1b2e24eb5c72, type: 2}
+    receiverName: EjecCommandMask
+    spriteAsset: {fileID: 11400000, guid: 9e729f823a7a68c40a9608a18969d479, type: 2}
+    audioClip: {fileID: 8300000, guid: 15d844dec689e2c4781803bb2cda31aa, type: 3}
+  - character:
+      name: Bit
+      icon: {fileID: -1319672761, guid: 74e972b012b5720439f666fc4d1bff91, type: 3}
+    line: "Una vez que tu programa est\xE9 listo, pulsa el bot\xF3n \"Empezar\" 
+      <sprite=0>  y yo realizar\xE9 las acciones que los bloques de programaci\xF3n
+      me indiquen."
+    gameEvent: {fileID: 11400000, guid: 8137d043a0e36024fb9b1b2e24eb5c72, type: 2}
+    receiverName: ExecButtonMask
+    spriteAsset: {fileID: 11400000, guid: 491f223a60ab6934c81deebc5204484d, type: 2}
+    audioClip: {fileID: 8300000, guid: d905b05067bc58d44b57e7f502997f24, type: 3}
+  - character:
+      name: Bit
+      icon: {fileID: -1319672761, guid: 74e972b012b5720439f666fc4d1bff91, type: 3}
+    line: "No te preocupes si te equivocas.  Simplemente pulsa el bot\xF3n \"Detener\" 
+      <sprite=1>  y podr\xE1s editar tu programa.  Adem\xE1s, yo volver\xE9 a mi
+      posici\xF3n inicial."
+    gameEvent: {fileID: 11400000, guid: 8137d043a0e36024fb9b1b2e24eb5c72, type: 2}
+    receiverName: StopButtonMask
+    spriteAsset: {fileID: 11400000, guid: 491f223a60ab6934c81deebc5204484d, type: 2}
+    audioClip: {fileID: 8300000, guid: 17d2baa408a62104a9295df16e7cf809, type: 3}
+  playOnStart: 0
