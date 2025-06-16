@@ -46,5 +46,4 @@ Aquí el jugador podrá experimentar libremente con todos los comandos disponibl
 - Paquetes de terceros: [UnitySimpleFileBrowser](https://github.com/yasirkula/UnitySimpleFileBrowser), [LetterBoxer](https://github.com/rabidgremlin/LetterBoxer)
 - Text to speech: [TTSMaker](https://ttsmaker.com)
 
-## Ejemplos de uso
 
