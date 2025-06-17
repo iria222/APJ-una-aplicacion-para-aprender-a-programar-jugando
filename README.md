@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/7d934246-b883-4e35-a7b0-0a84f4ef5128" style="width:25%;height:25%;"/>
 </p>
+
 [Read this in English.](https://github.com/iria222/APJ-una-aplicacion-para-aprender-a-programar-jugando/blob/main/README-EN.md)
 
 Este programa fue creado como TFG para el Grado en Ingeniería Informática de la UNED. Es una demo, no un programa completo.\
