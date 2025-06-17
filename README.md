@@ -3,8 +3,10 @@
 <img src="https://github.com/user-attachments/assets/7d934246-b883-4e35-a7b0-0a84f4ef5128" style="width:25%;height:25%;"/>
 </p>
 
-Este programa fue creado como TFG para el grado en ingeniería informática de la UNED. Es una demo, no un programa completo.\
+Este programa fue creado como TFG para el Grado en Ingeniería Informática de la UNED. Es una demo, no un programa completo.\
 Disponible únicamente en castellano.
+
+[Read this in English.](https://github.com/iria222/APJ-una-aplicacion-para-aprender-a-programar-jugando/blob/main/README-EN.md)
 
 ## Descripción
 "APJ, una aplicación para aprender a programar jugando" es un videojuego orientado a niños y niñas que permite a los usuarios la creación de programas sencillos mediante los cuales controlar el comportamiento de Bit, 
