@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/7d934246-b883-4e35-a7b0-0a84f4ef5128" style="width:25%;height:25%;"/>
 </p>
 
-This program was created as a final project for the Computer Science degree at UNED.  It is a demo, not a full program.<br/>
+This program was created as the final project for the Computer Science degree at UNED.  It is a demo, not a full program.<br/>
 Only available in Spanish.
 
 ## Description
