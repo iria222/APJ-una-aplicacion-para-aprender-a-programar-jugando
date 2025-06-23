@@ -40,7 +40,7 @@ Here, players will be able to freely experiment with all the available commands 
  <img src="https://github.com/user-attachments/assets/6ee05f0b-e574-4ce4-880c-f401a856e8cd" style = "width:75%; height:75%;"/>
  </p>
 
-## Used tools
+## Tools used
 - Game engine : Unity
 - Illustration software: Krita
 - Third party packages: [UnitySimpleFileBrowser](https://github.com/yasirkula/UnitySimpleFileBrowser), [LetterBoxer](https://github.com/rabidgremlin/LetterBoxer)
